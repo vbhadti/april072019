@@ -6,7 +6,7 @@ int main()
 
    // printf() displays the string inside quotation
 
-   printf("sigma");
+   printf("sigma (add chnage)");
 
    return 0;
 
